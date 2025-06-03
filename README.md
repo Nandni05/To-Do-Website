@@ -1,12 +1,28 @@
-# React + Vite
+# To-Do Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A responsive and minimalist Todo List built with **ReactJS** and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> ✅ Add tasks  
+> ✏️ Mark as complete  (checkbox)
+> 🗑️ Delete tasks  
+> 📂 Filter tasks (All / Active / Completed)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 📱 Fully responsive layout
+- ⚛️ Built with React functional components and hooks
+- 🎨 Styled using Tailwind CSS
+- 🔘 Checkbox toggle for task completion
+- 🧹 Clean and accessible UI
+
+Demo
+
+![Todo-All](https://github.com/user-attachments/assets/5ab7a9ce-e3b9-42ec-8008-31026e70a48d)
+![Todo-active](https://github.com/user-attachments/assets/136d6f65-8862-4ce3-9960-0c0ec94b7f96)
+![ToDo-completed](https://github.com/user-attachments/assets/050125ee-6b0b-4447-a4c1-491c50b4ddb6)
+
+
+
